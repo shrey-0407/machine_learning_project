@@ -7,7 +7,7 @@ VERSION="0.0.3"
 AUTHOR="SHREYASH MANDAVKAR"
 DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
 
-REQUIREMENT_FILE_NAME="requirements.txt"
+REQUIREMENT_FILE_NAME="requirements.txt" 
 
 HYPHEN_E_DOT = "-e ."
 
